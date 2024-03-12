@@ -1,0 +1,19 @@
+
+.studentSubjectTable {
+    .ant-table-thead>tr>td{
+        padding: 0.7%;
+        font-size: small;
+        font-weight: bold;
+    }
+    .ant-table-tbody>tr>td {
+        /* border-bottom: 0px solid #f0f0f0; */
+        padding: 0.5%;
+        font-size: small;
+    }
+    .ant-table-summary>tr>td{
+        padding: 0.7%;
+        font-size: small;
+        font-weight: bold;
+    }
+    
+}
