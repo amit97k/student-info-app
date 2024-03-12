@@ -13,7 +13,7 @@ These instructions will get you a copy of the project up and running on your loc
 ### Installing
 
 1. Clone the repository to your local machine:
-   git clone https://github.com/your-username/student-info-app.git
+   git clone https://github.com/amit97k/student-info-app.git
    cd student-info-app
    npm install
    npm start
